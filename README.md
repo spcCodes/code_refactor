@@ -11,3 +11,8 @@ This project is focussed upon code refactoring using langchain  and ollama. It w
 
 python src/code_enhancer.py
 ```
+The demo for the video : 
+[![Sample YouTube Video]](http://www.youtube.com/watch?v=M9XrhdodUvM)
+
+
+
